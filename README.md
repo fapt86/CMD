@@ -1,14 +1,18 @@
-# ntuguide
+﻿# ntuguide
 ntu_guide 台大完全指南
 
 made by ChingRu
 
-by using reveal.js 
+slide framework based on reveal.js.
 
-ver. alpah @ 2017-07-31
+ver. Alpah @ 2017-07-31, the first version of the slide.
 
-ver. beta @ 2017-08-01
+ver. Beta @ 2017-08-01, add some new elements and slides.
 
-ver. gamma @ 2017-08-02
+ver. Gamma @ 2017-08-02, add new pictures to slides.
 
-ver. delta @ 2017-08-02 ,also public the demo version
+ver. Delta @ 2017-08-02, public the Demo version on the internet.
+
+--branch-- ver. Demo @ 2017-08-02 (./demo.html)
+
+ver. Epsilon @ 2017-08-03, add some new elements and slides.
