@@ -16,3 +16,5 @@ ver. Delta @ 2017-08-02, public the Demo version on the internet.
 --branch-- ver. Demo @ 2017-08-02 (./demo.html)
 
 ver. Epsilon @ 2017-08-03, add some new elements and slides.
+
+ver. Zeta @2017-08-06, add some new slides.
